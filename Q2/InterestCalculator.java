@@ -3,7 +3,7 @@ package Q2;
 import java.util.Scanner;
 
 public class InterestCalculator {
-    public static void main(String[] args){
+    public void startCalculate(){
 
         float investAmount = readValue("How much do you want to invest? ");
         float year = readValue("How many years are investing? ");

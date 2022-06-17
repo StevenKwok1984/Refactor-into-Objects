@@ -4,7 +4,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class LuckySevens {
-    public static void main(String[] args) {
+    public void playLuckSevens() {
         int dollar, dice1, dice2;
         int greatest = 0, roll = 0, greatestRoll = 0, greatestMoney;
 

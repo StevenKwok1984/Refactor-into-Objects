@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Scanner;
 
 public class Factorizer {
-    public static void main(String[] args) {
+    public void startFactorizing() {
 
         int numForFactorize;
         int factorNum = 1;

@@ -6,7 +6,7 @@ import java.util.Random;
 
 public class RockPaperScissors {
     // Main method for starting the game
-    public static void main(String[] args) {
+    public void playRPS() {
 
         //initialise the scanner
         Scanner scanner = new Scanner(System.in);
